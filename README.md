@@ -21,7 +21,6 @@ banner: "bg-red-400"
   - [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-alguma-empresa-certificada-ou-em-processo-de-certificação)
   - [Material complementar](#material-complementar)
 
-![tenor](https://tenor.com/view/michael-scott-the-office-gif-23987751.gif)
 
 ## Objetivo da norma
 
