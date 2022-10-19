@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: "ISO/IEC-33000 - SPICE"
 description: ""
-author: "Bruno Penteado Carrara, Igor Vinicius de Jesus Gama da Silva, Leonardo"
+author: "Bruno Penteado Carrara, Igor Vinicius de Jesus Gama da Silva, Leonardo Siqueira Fernandes"
 date: "19 Oct 2022"
 banner: "bg-red-400"
 ---
@@ -20,6 +20,7 @@ banner: "bg-red-400"
   - [O que uma empresa deve fazer para obter a certificação na norma](#o-que-uma-empresa-deve-fazer-para-obter-a-certificação-na-norma)
   - [Relato de experiência de alguma empresa certificada ou em processo de certificação](#relato-de-experiência-de-alguma-empresa-certificada-ou-em-processo-de-certificação)
   - [Material complementar](#material-complementar)
+  - [Lista de referências (livros, sites, artigos) utilizados na pesquisa](#lista-de-referências-livros-sites-artigos-utilizados-na-pesquisa)
 
 
 ## Objetivo da norma
@@ -70,3 +71,15 @@ A ISO/IEC 33000 que foi utilizada na empresa, é a nova família de padrões int
 ## Material complementar
 
 Video explicativo sobre todos os aspectos escritos acima -> [Youtube - Vídeo Explicativo ISO/IEC 33000 - SPICE](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
+
+
+## Lista de referências (livros, sites, artigos) utilizados na pesquisa
+<ul>
+    <li>[Microsoft PowerPoint - cap7.ppt (unicamp.br)](https://www.ic.unicamp.br/~cortes/inf326/transp/cap7.pdf)</li>
+    <li>[ISO/IEC 33000 Family](https://committee.iso.org/sites/jtc1sc7/home/projects/flagship-standards/isoiec-33000-family.html)</li>
+    <li>[ISO/IEC 33000 Series on Process Assessment (spilab.co.za)](http://www.spilab.co.za/iso-standards-watch/33-33000/69-isoiec-33000-series-on-process-assessment)</li>
+    <li>[ISO/IEC 15504 | Desenvolvimento de software | DQS (dqsglobal.com)](https://www.dqsglobal.com/pt-br/certifique/certificacao-iso-iec-15504-spice)</li>
+    <li>[ISO - ISO/IEC TR 33014:2013 - Information technology — Process assessment — Guide for process improvement](https://www.iso.org/standard/54186.html)</li>
+    <li>[Slides2-ES-QualidadeProcesso (ufes.br)](https://nemo.inf.ufes.br/wp-content/uploads/Monalessa/EngSoftwarePPGI/Slides2-ES-QualidadeProcesso.pdf)</li>
+    <li>[AQCLAB(https://www.aqclab.es/index.php/en/software-quality-evaluation-certification-iso-25000/software-process-quality-iso-15504-iso-33000)</li>
+</ul>
