@@ -70,8 +70,10 @@ A ISO/IEC 33000 que foi utilizada na empresa, é a nova família de padrões int
 
 ## Material complementar
 
-Video explicativo sobre todos os aspectos escritos acima -> [Youtube - Vídeo Explicativo ISO/IEC 33000 - SPICE](https://www.youtube.com/watch?v=XgFdgqGi8ko&feature=youtu.be)
+Video explicativo sobre todos os aspectos escritos acima -> [Youtube - Vídeo Explicativo ISO/IEC 33000 - SPICE](https://youtu.be/F0eGaKfD1dQ)
 
+
+Slide explicativo sobre a norma -> [Slides](https://onedrive.live.com/view.aspx?resid=55071CA83CCD33E2%212030&ithint=file%2Cpptx&authkey=%21AIllLzEFo7-zehI)
 
 ## Lista de referências (livros, sites, artigos) utilizados na pesquisa
 <ul>
@@ -81,5 +83,5 @@ Video explicativo sobre todos os aspectos escritos acima -> [Youtube - Vídeo Ex
     <li>[ISO/IEC 15504 | Desenvolvimento de software | DQS (dqsglobal.com)](https://www.dqsglobal.com/pt-br/certifique/certificacao-iso-iec-15504-spice)</li>
     <li>[ISO - ISO/IEC TR 33014:2013 - Information technology — Process assessment — Guide for process improvement](https://www.iso.org/standard/54186.html)</li>
     <li>[Slides2-ES-QualidadeProcesso (ufes.br)](https://nemo.inf.ufes.br/wp-content/uploads/Monalessa/EngSoftwarePPGI/Slides2-ES-QualidadeProcesso.pdf)</li>
-    <li>[AQCLAB](https://www.aqclab.es/index.php/en/software-quality-evaluation-certification-iso-25000/software-process-quality-iso-15504-iso-33000)</li>
+    <li>[AQCLAB(https://www.aqclab.es/index.php/en/software-quality-evaluation-certification-iso-25000/software-process-quality-iso-15504-iso-33000)</li>
 </ul>
