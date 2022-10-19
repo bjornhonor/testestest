@@ -81,5 +81,5 @@ Video explicativo sobre todos os aspectos escritos acima -> [Youtube - Vídeo Ex
     <li>[ISO/IEC 15504 | Desenvolvimento de software | DQS (dqsglobal.com)](https://www.dqsglobal.com/pt-br/certifique/certificacao-iso-iec-15504-spice)</li>
     <li>[ISO - ISO/IEC TR 33014:2013 - Information technology — Process assessment — Guide for process improvement](https://www.iso.org/standard/54186.html)</li>
     <li>[Slides2-ES-QualidadeProcesso (ufes.br)](https://nemo.inf.ufes.br/wp-content/uploads/Monalessa/EngSoftwarePPGI/Slides2-ES-QualidadeProcesso.pdf)</li>
-    <li>[AQCLAB(https://www.aqclab.es/index.php/en/software-quality-evaluation-certification-iso-25000/software-process-quality-iso-15504-iso-33000)</li>
+    <li>[AQCLAB](https://www.aqclab.es/index.php/en/software-quality-evaluation-certification-iso-25000/software-process-quality-iso-15504-iso-33000)</li>
 </ul>
